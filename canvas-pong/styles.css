@@ -1,0 +1,19 @@
+body {
+  background: darkslateblue
+}
+
+h1 {
+  text-align: center;
+}
+
+canvas {
+  margin-left: 35%;
+}
+
+#header-canvas {
+  color: violet;
+}
+
+#header-pong {
+  color: green;
+}
