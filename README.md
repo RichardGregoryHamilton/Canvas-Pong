@@ -1,4 +1,4 @@
 # Canvas-Pong
 The classic ping pong game recreated in HTML5 Canvas!
 
-Project Url: https://www.canvas-pong.firebaseapp.com
+Project Url: https://canvas-pong.firebaseapp.com
